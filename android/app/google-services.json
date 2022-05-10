@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64984839883",
+    "project_id": "smartos-fl",
+    "storage_bucket": "smartos-fl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64984839883:android:5b9a539f6f20ec4b56cd4e",
+        "android_client_info": {
+          "package_name": "com.example.rest_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64984839883-6jkgpsj73pqdsnfe25ikfvaovaprkfn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADsaB2rCYwdGPztE1jPWzzyI4LlujfLXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64984839883-6jkgpsj73pqdsnfe25ikfvaovaprkfn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
