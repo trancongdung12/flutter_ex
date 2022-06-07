@@ -32,12 +32,4 @@ dependencies: \
   /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
   /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
   /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
-  /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
-  /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/image_picker/image_picker.framework/Headers/FLTImagePickerPlugin.h \
-  /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/image_picker/image_picker.framework/Modules/module.modulemap \
-  /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/image_picker/image_picker.framework/Headers/FLTPHPickerSaveImageToPathOperation.h \
-  /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/image_picker/image_picker.framework/Headers/FLTImagePickerPhotoAssetUtil.h \
-  /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/image_picker/image_picker.framework/Headers/FLTImagePickerMetaDataUtil.h \
-  /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/image_picker/image_picker.framework/Headers/FLTImagePickerImageUtil.h \
-  /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/image_picker/image_picker.framework/Headers/FLTImagePickerPlugin_Test.h \
-  /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/image_picker/image_picker.framework/Headers/image_picker-umbrella.h
+  /Users/dungtran/Desktop/Test/flutter_ex/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h

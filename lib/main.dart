@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:rest_api/day2+/calculator.dart';
+import 'package:rest_api/day4/login.dart';
+import 'package:rest_api/day4/name_route.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const MyAppProvider());
 }
 
 class MyApp extends StatelessWidget {
@@ -11,7 +12,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       title: 'Flutter Demo',
-      home: Ex1(),
+      home: Login(),
+      initialRoute: '/',
     );
   }
 }

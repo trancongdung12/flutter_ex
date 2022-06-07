@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
-options: "948188acc814d849e99d426d02ab30dec93dcde29db00af4854afbab2172855f"
-build_start_time: [1652195765, 658122062]
-build_end_time: [1652195771, 92061996]
+options: "12c24ca9c63f87d6a7524b2722de230b5ff02fc9b0eb40452fec31420d1969b8"
+build_start_time: [1654531185, 88714122]
+build_end_time: [1654531190, 867272853]
 inputs:
   "/Users/dungtran/Desktop/Test/flutter_ex/ios/Runner/AppDelegate.swift": [1637769877, 396975517]
